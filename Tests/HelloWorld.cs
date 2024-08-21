@@ -5,7 +5,7 @@ public class HelloWorld
 {
 public static void main(String[])
 {
-System.Out.WriteLine("Hello World");
+System.Console.WriteLine("Hello World");
 }
   
 }
